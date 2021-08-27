@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanMemQLSV", "PhanMemQLSV\PhanMemQLSV.csproj", "{814E37CA-B628-433F-B7F4-14C7BC4A96FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8ABB625B-6FDB-491A-84FB-533754AA187E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814E37CA-B628-433F-B7F4-14C7BC4A96FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814E37CA-B628-433F-B7F4-14C7BC4A96FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814E37CA-B628-433F-B7F4-14C7BC4A96FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814E37CA-B628-433F-B7F4-14C7BC4A96FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {711A34D9-55E0-48CE-BAC1-8905C8752C59}
+	EndGlobalSection
+EndGlobal
